@@ -1,7 +1,7 @@
 # Google Data Analytics Capstone Project by Juan Vizuete
 
 <p align="center">
-<img src="./readme-images/cyclistic-img.png" width="200" >
+<img src="./readme-images/cyclistic-img.png" width="250" >
 </p>
 
 ## Scenario
