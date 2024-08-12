@@ -1,8 +1,8 @@
 # Google Data Analytics Capstone Project by Juan Vizuete
 
-
-![Cyclistic-logo](./readme-images/cyclistic-img.png){width=200}
-
+<p align="center">
+<img src="./readme-images/cyclistic-img.png" width="200" >
+</p>
 
 ## Scenario
 
