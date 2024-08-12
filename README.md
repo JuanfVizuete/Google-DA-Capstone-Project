@@ -1,8 +1,8 @@
 # Google Data Analytics Capstone Project by Juan Vizuete
 
-<center>
+
 ![Cyclistic-logo](./readme-images/cyclistic-img.png){width=200}
-</center>
+
 
 ## Scenario
 
@@ -29,4 +29,4 @@ Moreno has set a clear goal: Design marketing strategies aimed at converting cas
 
 ## Check the R Markdown File of the analysis of the project
 
-To see all the analysis made for this capstone project click **[HERE](https://github.com/JuanfVizuete/Google-DA-Capstone-Project)**
+To see all the analysis made for this capstone project click **[HERE](https://juanfvizuete.github.io/Google-DA-Capstone-Project/#Google_Data_Analytics_Capstone_Project:_Cyclistic_bike-share_program)**
